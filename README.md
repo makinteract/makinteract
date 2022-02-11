@@ -2,8 +2,6 @@
 
 <p align="center"><span>I am a maker working on mechatronics and prototyping toolkits.</span></p>
 
-<table><tr> <td valign="top" width="50%">
-
 <h2>✨ Highlights ✨:</h2>
 
 <ul>
