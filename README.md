@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🚀</h1>
+<h1 align="center">Hi there 🦉</h1>
 
 <p align="center"><span>I am a maker working on mechatronics and prototyping toolkits.</span></p>
 
