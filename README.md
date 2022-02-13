@@ -22,4 +22,4 @@
 <h2>Reach out: 💬</h2>
 
 - [**Personal webpage**](https://makinteract.kaist.ac.kr/andrea) - If you want to know more about me...
-- [**MAKinteract Lab**](https://makinteract.kaist.ac.kr) - See the amazing projects from my lab we are working on.
+- [**MAKinteract Lab**](https://makinteract.kaist.ac.kr) - See the amazing projects we are working on in my lab.
