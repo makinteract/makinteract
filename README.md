@@ -15,7 +15,7 @@
 	</li>
 	<li>
 		<img src="https://github.com/makinteractlab/BlinkBoard/blob/master/Logo/logo.jpg?raw=true" align="top" width="20">
-		<a href="https://github.com/makinteractlab/BlinkBoard" target="_blank">BlinkBoard</a> - the next step in physical computing remote education.
+		<a href="https://blinkboard.kaist.ac.kr" target="_blank">BlinkBoard</a> - the next step in physical computing remote education.
 	</li>
 </ul>
 
