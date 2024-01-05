@@ -21,5 +21,5 @@
 
 <h2>Reach out: 💬</h2>
 
-- [**Personal webpage**](https://makinteract.kaist.ac.kr/andrea) - If you want to know more about me...
-- [**MAKinteract Lab**](https://makinteract.kaist.ac.kr) - See the amazing projects we are working on in my lab.
+- [**Personal webpage**](https://make.kaist.ac.kr/andrea) - If you want to know more about me...
+- [**Make Lab**](https://make.kaist.ac.kr) - See the amazing projects we are working on in my lab.
