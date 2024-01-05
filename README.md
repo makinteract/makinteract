@@ -10,7 +10,7 @@
 		<a href="https://github.com/makinteract/vscode-microbit-micropython" target="_blank">VSCode micro:bit MicroPython extension</a> - upload python code on the micro:bit with VSCode.
 	</li>
 	<li>
-		<img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" align="top" width="20">
+		🚀
 		<a href="https://github.com/makinteract/p5js-vite" target="_blank">P5.js-vite Starter Template</a> - getting started with P5.js using Vite.
 	</li>
 	<li>
