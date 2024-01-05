@@ -17,9 +17,6 @@
 		<img src="https://github.com/makinteractlab/BlinkBoard/blob/master/Logo/logo.jpg?raw=true" align="top" width="20">
 		<a href="https://blinkboard.kaist.ac.kr" target="_blank">BlinkBoard</a> - the next step in physical computing remote education.
 	</li>
-	<li>
-		⏰ <a href="https://hci-deadlines.github.io" target="_blank">HCI Conference Deadlines</a> - Countdowns to top HCI conference deadlines (mantainer).
-	</li>
 </ul>
 
 <h2>Reach out: 💬</h2>
