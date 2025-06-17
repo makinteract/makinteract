@@ -2,7 +2,8 @@
 
 <p align="center"><span>I am a maker working on mechatronics and prototyping toolkits.</span></p>
 
-<h2>✨ Highlights ✨:</h2>
+<!---<h2>✨ Highlights ✨:</h2>
+
 
 <ul>
 	<li>
@@ -18,7 +19,7 @@
 		<a href="https://blinkboard.kaist.ac.kr" target="_blank">BlinkBoard</a> - the next step in physical computing remote education.
 	</li>
 </ul>
-
+--->
 <h2>Reach out: 💬</h2>
 
 - [**Personal webpage**](https://make.kaist.ac.kr/andrea) - If you want to know more about me...
