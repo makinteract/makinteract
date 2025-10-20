@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 🦉</h1>
 
-<p align="center"><span>I am a maker working on mechatronics and prototyping toolkits.</span></p>
+<p align="center"><span>I am a maker working on creativity-supporting tools and computationally augmented physical interaction.</span></p>
 
 <h2>✨ Highlights ✨:</h2>
 
