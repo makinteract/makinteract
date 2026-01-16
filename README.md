@@ -1,4 +1,25 @@
-<h1 align="center">Hi there 🦉</h1>
+# Hi, I'm Andrea 🦉 (makinteract) 
+
+📍 **Daejeon, Korea 🇰🇷** | **Prof at KAIT (make::lab)** | 🌗 **Research and building systems that blend physical and digital**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
+> I am interested in the process of making as a means to creative explorations, problem framing, and knowledge construction.
+
+## Reach out
+
+- [**Personal webpage**](https://make.kaist.ac.kr/andrea) - If you want to know more about me...
+- [**Make Lab**](https://make.kaist.ac.kr) - See the amazing projects we are working on in my lab.
+- [**Blog**](https://medium.com/@andrea_36977) - Read about our projects on Medium.
+
+
+<!--- - [**X**](https://x.com/AndreaHCI) - Reach out MAKinteract on X. -->
+
+
+<!---<h1 align="center">Hi there 🦉</h1>
 
 <p align="center"><span>I am a maker working on creativity-supporting tools and computationally augmented physical interaction.</span></p>
 
@@ -19,7 +40,7 @@
     	<a href="https://github.com/makinteract/p5js-vite" target="_blank">P5.js-vite Starter Template</a> - Getting started with P5.js using Vite.
     </li>
 </ul>
-<!---
+
 <ul>
 	<li>
 		<img src="https://github.com/makinteract/vscode-microbit-micropython/blob/main/images/icon.png?raw=true" align="top" width="20">
@@ -34,10 +55,8 @@
 		<a href="https://blinkboard.kaist.ac.kr" target="_blank">BlinkBoard</a> - the next step in physical computing remote education.
 	</li>
 </ul>
---->
-<h2>Reach out: 💬</h2>
 
-- [**Personal webpage**](https://make.kaist.ac.kr/andrea) - If you want to know more about me...
-- [**Make Lab**](https://make.kaist.ac.kr) - See the amazing projects we are working on in my lab.
-- [**Blog**](https://medium.com/@andrea_36977) - Read about our projects on Medium.
-- [**X**](https://x.com/AndreaHCI) - Reach out MAKinteract on X.
+<h2>Reach out: 💬</h2>
+--->
+
+
