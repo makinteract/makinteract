@@ -1,13 +1,14 @@
 # Hi, I'm Andrea 🦉 (makinteract) 
 
-📍 **Daejeon, Korea 🇰🇷** | **Prof at KAIT (make::lab)** | 🌗 **Research and building systems that blend physical and digital**
+📍 **Daejeon, Korea 🇰🇷** | **Prof at KAIST ([make::lab](https://make.kaist.ac.kr))** | 🌗 **Researching and building systems that blend physical and digital**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-green?style=flat&logo=arduino)
 
-> I am interested in the process of making as a means to creative explorations, problem framing, and knowledge construction.
+> I am interested in understanding _making_ as a process toward _creative explorations, problem framing, and knowledge construction_.
 
 ## Reach out
 
