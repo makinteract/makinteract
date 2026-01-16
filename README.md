@@ -1,6 +1,12 @@
 # Hi, I'm Andrea 🦉 (makinteract) 
 
-📍 **Daejeon, Korea 🇰🇷** | **Prof at KAIST ([make::lab](https://make.kaist.ac.kr))** | 🌗 **Researching and building systems that blend physical and digital**
+
+🎓 **Prof at KAIST ([make::lab](https://make.kaist.ac.kr))**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|> 🌗 **Researching and building systems that blend physical and digital**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|> 📍 **Daejeon, Korea 🇰🇷**
+
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
