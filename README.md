@@ -2,7 +2,7 @@
 
 
 🎓 **Prof at KAIST ([make::lab](https://make.kaist.ac.kr))**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|> 🌗 **Researching and building systems that blend physical and digital**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|> 🌗 ** Creative making by blending physical experiences with computational interaction**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|> 📍 **Daejeon, Korea 🇰🇷**
 
 
